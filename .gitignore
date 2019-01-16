@@ -1,0 +1,14 @@
+# ignore these C related files
+*.out
+*.stackdump
+
+# ignore these vi related files
+*.swp
+*.swo
+
+# ignore these Windows related files
+*.exe
+
+# ignore these directories. Used for example programs from book chapters
+examples
+exploring
